@@ -1,0 +1,4 @@
+# Bootcamp Back-end Python e Django
+### Semana 05 - Desafio 4: Utilizando Flask para criar um web app com IA 
+
+Seguindo o módulo tutorial: Criar um aplicativo Web de IA usando Python e Flask (https://learn.microsoft.com/pt-br/training/modules/python-flask-build-ai-web-app/), é um treinamento do Microsoft Learn que introduz a criação de um aplicativo web com inteligência artificial para tradução de texto, onde é utilizado o framework Flask para o front-end, devido à sua simplicidade e capacidade de integração com serviços de back-end, e os Serviços Cognitivos do Azure para o back-end, especificamente o serviço de Tradução. Neste módulo é feita a configuração do ambiente de desenvolvimento Flask, a criação de um formulário usando Flask e a implementação do serviço de Tradução para traduzir texto em vários idiomas.
